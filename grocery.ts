@@ -15,7 +15,7 @@ class Grocery {
 let list_of_items = [
     new Grocery("milk", 3, 10),
     new Grocery("bread", 6, 25),
-    new Grocery("egg", 11, 10)
+    new Grocery("egg", 11, 20)
 ]
 
  const ele = document.getElementById("app");
